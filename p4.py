@@ -10,4 +10,4 @@ def gcd(a, b):
         else:
             b = b-a
 
-gcd(60,35)
+gcd(25,35)
