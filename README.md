@@ -38,7 +38,7 @@ Read a positive integer number from the user and then display the numbers that d
 >>Divisors of 7 are : 1, 7<br>
 There are only 2 divisors so 7 IS a prime number.<br>
 
-##P2 (ATM)
+## P2 (ATM)
 Write a program that will determine how an ATM will give cash back to a user. Let’s assume that an ATM holds banknotes of type 100TL, 50TL, 10 TL, 5TL and 1TL. When the user enters the amount she wants to withdraw, the ATM tries to match this amount with the largest banknotes first. When the amount can’t be matched with just this type of banknote, it uses the next largest banknote and this continues until the whole amount is matched. Print how many of each banknote will be given back if the ATM utilizes this algorithm. See examples for more clarification:
 
 ### Outputs
@@ -90,7 +90,7 @@ For instance, for values `A=60` and `B=35` the algorithm will work like this:<br
 
 You can use a while loop containing some if-else statements to implement this algorithm. If GCD of two numbers are known, least common multiple (LCM) of these numbers can be computed by using the following equation:,`A*B = GCD(A,B)*LCM(A,B)`. Read two numbers from the user and then display their GCD and LCD by using the information above.
 ## P5 (Patterns)
-Read a number from the user that is between 5 and 9 and then produce the following patterns. Hint: Use nested loops or duplicating a string by * operator: `“ab” * 5 -> “ababababab”``
+Read a number from the user that is between 5 and 9 and then produce the following patterns. Hint: Use nested loops or duplicating a string by * operator: `“ab” * 5 -> “ababababab”`
 ### Outputs
 `Enter a number: 7`
 ##### Pattern 1:    
@@ -100,7 +100,7 @@ Read a number from the user that is between 5 and 9 and then produce the followi
 22  
 333  
 4444  
-55555  
+55555  gi
 666666  
 7777777
 ```  
