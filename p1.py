@@ -1,7 +1,7 @@
 def p1():
-    a = input("Enter a positive integer :")
+    a = int(input("Enter a positive integer :"))
     divisors = []
-    for i in range(1,(a+1)6):
+    for i in range(1, a+1):
         if a%i == 0:
             divisors.append(i)
 
