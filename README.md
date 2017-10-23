@@ -1,6 +1,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-#ceng1003 exercies
+# ceng1003 exercies
 
 Following are some programming exercies. They aren’t in any difficulty order. Some of them are easy enough to be asked in the exam.
 
@@ -21,8 +21,7 @@ Following are some programming exercies. They aren’t in any difficulty order. 
         - [Pattern 7](#pattern-7)
         - [Pattern 8](#pattern-8)
  - [Donation](#donation)
- - [Oh, Thanks!](#oh-thanks)
- 
+ - [or Oh Thanks](#or-oh-thanks)
 
 
 
@@ -347,9 +346,9 @@ for i in range(1, 4):
 -*****+  
 +-+-+-+  
 ```
-## [Donations](#donations)
-- Bitcoin : 1NwFxut38j6ex8KWEPKuWaikUBYNW476gV<br>
-###### or
-## Oh, Thanks!
-![alt text](https://github.com/us/ceng1003/blob/master/rick-dede.webp "rick dede")
-
+## Donations
+- Bitcoin : 1NwFxut38j6ex8KWEPKuWaikUBYNW476gV <br>
+or  
+## or Oh Thanks
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/us)
+✨🍰✨
