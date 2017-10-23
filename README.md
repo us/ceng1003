@@ -350,7 +350,8 @@ for i in range(1, 4):
 - Bitcoin : 1NwFxut38j6ex8KWEPKuWaikUBYNW476gV <br>
 ##### or  
 ## Oh Thanks
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/us)
+By the way... thank you! And if you'd like to [say thanks](https://saythanks.io/to/us)... :)  
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/us)  
 ✨🍰✨
 
 ![alt text](https://github.com/us/ceng1003/blob/master/rick-dede.webp "p4 outputs")
