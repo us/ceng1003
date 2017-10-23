@@ -178,7 +178,7 @@ while True:
 ### Outputs
 `Enter a number: 7`
 ##### Pattern 1:    
-######Solution
+###### Solution
 ```python
 for i in range(a+1):
     print(i*str(i))
@@ -194,7 +194,7 @@ for i in range(a+1):
 7777777
 ```  
 ##### Pattern 2:
-######Solution
+###### Solution
 ```python
 for i in range(1,a+1):
     print((a-i) * '.' + i*str(i))
@@ -210,7 +210,7 @@ for i in range(1,a+1):
 7777777
 ```  
 ##### Pattern 3:
-######Solution
+###### Solution
 ```python
 for i in range(1, a + 1):
     if i%2 != 0:
@@ -232,7 +232,7 @@ for i in range(1, a + 1):
 7654321
 ```  
 ##### Pattern 4:
-######Solution
+###### Solution
 ```python
 print('*')
 for i in range(a+1):
@@ -254,7 +254,7 @@ print((a+3)*'*')
 **********
 ```  
 ##### Pattern 5:  
-######Solution
+###### Solution
 ```python
 for i in range(1,a+1):
     arr = []
@@ -276,7 +276,7 @@ for i in range(1,a+1):
 7000007
 ```  
 ##### Pattern 6:  
-######Solution
+###### Solution
 ```python
 for i in reversed(range(1,a+1)):
     print((a-i)*' ' + str(i), end = '')
@@ -294,7 +294,7 @@ for i in reversed(range(1,a+1)):
       1  
    ```
 ##### Pattern 7:  
-######Solution
+###### Solution
 ```python
 print(a*'+')
 for i in range(1,a-2):
@@ -313,7 +313,7 @@ print(a*'+')
 +++++++  
 ```
 ##### Pattern 8 (you may assume input number is odd):
-######Solution
+###### Solution
 ```python
 for i in range(1, 4):
     if i == 1 or i == 3:
