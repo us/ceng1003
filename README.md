@@ -18,6 +18,8 @@ Following are some programming exercies. They aren’t in any difficulty order. 
         - [Pattern 6](#patter-6)
         - [Pattern 7](#patter-7)
         - [Pattern 8](#patter-8)
+ - [Donation](#donation)
+
 
 
 # Exercies
@@ -79,38 +81,38 @@ You can use a while loop containing some if-else statements to implement this al
 Read a number from the user that is between 5 and 9 and then produce the following patterns. Hint: Use nested loops or duplicating a string by * operator: “ab” * 5 -> “ababababab”
 ### Outputs
 Enter a number: 7 <br>
-#####Pattern 1:<br>
+##### Pattern 1:    
 
 ```js
-1
-22
-333
-4444
-55555
-666666
+1  
+22  
+333  
+4444  
+55555  
+666666  
 7777777
-``
-#####Pattern 2:
+```  
+##### Pattern 2:  
 ```js
-......1
-.....22
-....333
-...4444
-..55555
-.666666
+......1  
+.....22  
+....333  
+...4444  
+..55555  
+.666666  
 7777777
-``
-#####Pattern 3:
+```  
+##### Pattern 3:  
 ```js
-1
-22
-321
-4444
-54321
-666666
+1  
+22  
+321  
+4444  
+54321  
+666666  
 7654321
-```
-#####Pattern 4:
+```  
+##### Pattern 4:  
 ```js
 *
 **
@@ -118,48 +120,50 @@ Enter a number: 7 <br>
 *--*
 *---*
 *----*
-*-----*
-*------*
-*-------*
+*-----*  
+*------*  
+*-------*  
 **********
-```
-#####Pattern 5:
+```  
+##### Pattern 5:  
 ```js
-1000001
-0200020
-0030300
-0004000
-0050500
-0600060
+1000001  
+0200020  
+0030300  
+0004000  
+0050500  
+0600060  
 7000007
-```
-#####Pattern 6:
+```  
+##### Pattern 6:  
 ```python
-7-7-7-7-7-7-7
- 6-6-6-6-6-6
-  5-5-5-5-5
-   4-4-4-4
-    3-3-3
-     2-2
-      1
+7-7-7-7-7-7-7  
+ 6-6-6-6-6-6  
+  5-5-5-5-5  
+   4-4-4-4  
+    3-3-3  
+     2-2  
+      1  
    ```
-#####Pattern 7:
+##### Pattern 7:  
 ```js
-+++++++
-+*****+
-+*****+
-+*****+
-+*****+
-+*****+
-+++++++
++++++++  
++*****+  
++*****+  
++*****+  
++*****+  
++*****+  
++++++++  
 ```
-#####Pattern 8 (you may assume input number is odd):
+##### Pattern 8 (you may assume input number is odd):   
 ```js
-+-+-+-+
--*****+
-+*****-
--*****+
-+*****-
--*****+
-+-+-+-+
-``
++-+-+-+  
+-*****+  
++*****-  
+-*****+  
++*****-  
+-*****+  
++-+-+-+  
+```
+##[Donations](#donations)
+- Bitcoin : 1NwFxut38j6ex8KWEPKuWaikUBYNW476gV
