@@ -347,6 +347,7 @@ for i in range(1, 4):
 +-+-+-+  
 ```
 ## Donations
+[![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)
 - Bitcoin : 1NwFxut38j6ex8KWEPKuWaikUBYNW476gV <br>
 ##### or  
 ## Oh Thanks
