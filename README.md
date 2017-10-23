@@ -21,7 +21,7 @@ Following are some programming exercies. They aren’t in any difficulty order. 
         - [Pattern 7](#pattern-7)
         - [Pattern 8](#pattern-8)
  - [Donation](#donation)
- - [or Oh Thanks](#or-oh-thanks)
+ - [Oh Thanks](#oh-thanks)
 
 
 
@@ -348,7 +348,11 @@ for i in range(1, 4):
 ```
 ## Donations
 - Bitcoin : 1NwFxut38j6ex8KWEPKuWaikUBYNW476gV <br>
-or  
-## or Oh Thanks
+##### or  
+## Oh Thanks
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/us)
 ✨🍰✨
+
+![alt text](https://github.com/us/ceng1003/blob/master/rick-dede.webp "p4 outputs")
+
+
