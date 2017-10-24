@@ -7,7 +7,7 @@ Following are some programming exercies. They aren’t in any difficulty order. 
 ## Table of content
 - [Exercies](#exercies)
     - [P1 (Prime Number)](#p1-prime-number)
-    - [P2 (ATM)](#p2)
+    - [P2 (ATM)](#p2-atm)
     - [P3 (Total Average)](#p3-total-average)
     - [P3(2) (findMax2)](#p42-findmax2)
     - [P4 (GCD)](#p4-gcd)
