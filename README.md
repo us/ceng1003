@@ -115,7 +115,7 @@ print("Average: " + str(float(total)/float(len(arr))))
 >>Total : 33
 Average : 11.0
 
-## P3(2)
+## P3 (2) (findMax2)
 Here is a function that will find the maximum value in a numbers list:
 ```python
 def findMax(nums):
